@@ -8,5 +8,6 @@ dependencies = [
     "fastapi>=0.136.0",
     "fastapi-clerk-auth>=0.0.9",
     "openai>=2.32.0",
+    "pydantic>=2.13.1",
     "uvicorn>=0.44.0",
 ]
